@@ -16,6 +16,42 @@ A utilização do formulário é bastante intuitiva. Observe na figura abaixo os
 
 ![](figuras/4.PNG)
 
+## Menu Arquivo
+
+Neste Menu podemos acessar as opções de Salvar ou Carregar uma lista de Itens. O formato do arquivo será .txt.
+
+## Tela Inserir
+
+Nesta Tela faremos a inserção do Item bem como a sua quantidade. Também é possível por meio dela acessar outras funções como ordenação, Exclusão, e Edição.
+
+## Tela Estatísticas
+
+Nesta tela é possível ver um pequeno resumo do estoque da loja, como: Quantidade Total de Itens, Maior Quantidade e Menor Quantidade.
+
+## Controle do Formulário
+
+Nestas opções, podemos Fechar, Minimizar ou expandir o formulário.
+
+## Inserção do Item
+
+Neste Campo digitaremos o produto a ser inserido. Mesmo que a escrita seja em caixa alta ou baixa, o Item será guardado sempre em caixa alta. Não é possível inserir um item se o mesmo já foi inserido anteriormente
+
+## Inserção da Quantidade
+
+Neste campo digitaremos a quantidade do Item. Se a quantidade for maior que 10, o estoque do Item será classificado como alto, caso contrário, será classificado como baixo.
+
+## Botão Inserir
+
+Ao ser pressionado, e não havendo duplicidade, o item com sua respectiva quantidade e classificação será inserida na tabela.
+
+## Tabela de Produtos
+
+Este Item mostrará todos os produtos inseridos.
+
+## Botão Ordenar por Produto
+
+
+
 # Os componentes básicos do QT (basic widgets)
 
 ## Labels
