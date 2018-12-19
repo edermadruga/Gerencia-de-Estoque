@@ -141,15 +141,15 @@ Suponha que seja necessário excluir o item Arduino Mega:
 
 - Clicamos em ARQUIVO e em seguida salvar.
 
-![](figuras/14.PNG)
+![](figuras/15.png)
 
 - Uma janela de dialogo é aberta para selecionarmos o nome do arquivo. No nosso exemplo, vamos salvar como ESTOQUE.txt.
 
-![](figuras/14.PNG)
+![](figuras/16.PNG)
 
 - Se o arquivo foi salvo, uma janela de mensagem nos informará.
 
-![](figuras/14.PNG)
+![](figuras/17.PNG)
 
 # Os componentes básicos do QT (basic widgets)
 
