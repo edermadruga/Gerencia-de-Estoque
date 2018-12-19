@@ -93,9 +93,13 @@ Dessa forma não será possível termos dois itens iguais cadastrados.
 
 Se o usuário desejar ordenar a lista de produtos por ordem alfabética basta clicar no botão ORDENAR POR PRODUTO. Nossa lista do exemplo dado ficará:
 
+![](figuras/8.PNG)
+
 # Ordenando por Quantidade
 
 Se o usuário desejar ordenar a lista de produtos por quantidade basta clicar no botão ORDENAR POR QUANTIDADE. Nossa lista do exemplo dado ficará:
+
+![](figuras/9.PNG)
 
 # Editando um Produto
 
@@ -105,19 +109,19 @@ Suponha que seja necessário modificar a quantidade do arduino Uno para 20 peça
 
 - Selecionamos a linha.
 
-![](figuras/7.PNG)
+![](figuras/10.PNG)
 
 - Clicamos no botão EDITAR.
 
-![](figuras/7.PNG)
+![](figuras/11.PNG)
 
 - A Linha será apagada e o item voltará aos campos de inserção.
 
-![](figuras/7.PNG)
+![](figuras/12.PNG)
 
 - Modificamos a quantidade para 20 e clicamos em INSERIR
 
-![](figuras/7.PNG)
+![](figuras/12.PNG)
 
 
 
