@@ -129,11 +129,11 @@ Suponha que seja necessário excluir o item Arduino Mega:
 
 - Selecionamos a linha.
 
-![](figuras/10.PNG)
+![](figuras/13.PNG)
 
 - Clicamos no botão EXCLUIR. Uma janela de mensagem será aberta informando da excusão do item.
 
-![](figuras/12.PNG)
+![](figuras/14.PNG)
 
 
 # Os componentes básicos do QT (basic widgets)
