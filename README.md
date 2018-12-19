@@ -65,6 +65,21 @@ Antes de utilizar este botão, é necessário que o usuário selecione uma linha
 Antes de utilizar este botão, é necessário que o usuário selecione uma linha da tabela. Com isso, ao clicar no botão a linha selecionada será apagada, mas o item com sua respectiva quantidade retornará ao campo de edição para que possa ser modificado e inserido novamebte na tabela.
 
 
+# Inserindo Produtos na Tabela
+
+Para Inserir produtos da tabela, basta preencher o campo Produto e o campo Quantidade e clicar no botão inserir. O Produto então será inserido na tabela juntamente com sua quantidade e a situação do estoque. Se a quantidade for igual ou superior a 10, o item será classificado como ALTO, caso contrário, será classificado como baixo. Como exemplo, vamos inserir em nossa tabela os seguintes itens:
+
+- Arduino uno (10 peças)
+- Arduino Mega (5 peças)
+- Sensor Ultrassõnico (21 peças)
+- Motor de Passo (3 peças)
+- Drive para motor de passo (1 peça)
+
+Ao ser inserido, nosso formulário ficará da seguinte forma:
+
+
+
+
 
 # Os componentes básicos do QT (basic widgets)
 
