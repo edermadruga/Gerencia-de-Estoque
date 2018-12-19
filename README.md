@@ -77,6 +77,48 @@ Para Inserir produtos da tabela, basta preencher o campo Produto e o campo Quant
 
 Ao ser inserido, nosso formulário ficará da seguinte forma:
 
+![](figuras/5.PNG)
+
+Suponha agora, que o usuário tente digitar novamente o primeiro item (Arduino Uno), como podemos ver na figura abaixo:
+
+![](figuras/6.PNG)
+
+Ao clicar no botão INSERIR, uma janela de mensagem avisará da duplicidade do item.
+
+![](figuras/7.PNG)
+
+Dessa forma não será possível termos dois itens iguais cadastrados.
+
+# Ordenando por Produto
+
+Se o usuário desejar ordenar a lista de produtos por ordem alfabética basta clicar no botão ORDENAR POR PRODUTO. Nossa lista do exemplo dado ficará:
+
+# Ordenando por Quantidade
+
+Se o usuário desejar ordenar a lista de produtos por quantidade basta clicar no botão ORDENAR POR QUANTIDADE. Nossa lista do exemplo dado ficará:
+
+# Editando um Produto
+
+Caso seja necessário, o usuário poderá editar o produto, basta selecionar uma linha da tabela (Observe que a linha selecionada ficará azul)e apertar no botão EDITAR. O item será apagado, mas o produto aparecerá nos campos de inserção, podendo ser editados e inseridos novamente.
+
+Suponha que seja necessário modificar a quantidade do arduino Uno para 20 peças, neste caso, procedemos:
+
+- Selecionamos a linha.
+
+![](figuras/7.PNG)
+
+- Clicamos no botão EDITAR.
+
+![](figuras/7.PNG)
+
+- A Linha será apagada e o item voltará aos campos de inserção.
+
+![](figuras/7.PNG)
+
+- Modificamos a quantidade para 20 e clicamos em INSERIR
+
+![](figuras/7.PNG)
+
 
 
 
