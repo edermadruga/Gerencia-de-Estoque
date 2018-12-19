@@ -135,6 +135,21 @@ Suponha que seja necessário excluir o item Arduino Mega:
 
 ![](figuras/14.PNG)
 
+# Salvando a tabela em um arquivo de Texto
+
+É possível salvar a tabela de produtos em um arquivo de texto, para tanto, procedemos de saguinte maneira:
+
+- Clicamos em ARQUIVO e em seguida salvar.
+
+![](figuras/14.PNG)
+
+- Uma janela de dialogo é aberta para selecionarmos o nome do arquivo. No nosso exemplo, vamos salvar como ESTOQUE.txt.
+
+![](figuras/14.PNG)
+
+- Se o arquivo foi salvo, uma janela de mensagem nos informará.
+
+![](figuras/14.PNG)
 
 # Os componentes básicos do QT (basic widgets)
 
