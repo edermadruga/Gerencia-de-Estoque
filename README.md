@@ -1,5 +1,6 @@
-# Gerenciador de alunos 2018.2 
-### Código exemplo da aplicação desenvolvida em [QT](http://www.qt.io) para gerenciar as notas de uma turma dddd
+# Gerenciador de Estoque
+### Código exemplo da aplicação desenvolvida em [QT](http://www.qt.io) para gerenciar o estoque de uma loja de eletrônica (Arduíno, sensores, etc).
+#### Este código foi desenvolvido por EDER MADRUGA COELHO (20181610028) na disciplina de Técnicas de Programação (2018.2) tendo como base o código Gerenciador de alunos 2018.2 do professor PATRIC LACOUTH.
 
 A aplicação deve permitir que o usuário insira vários alunos mostrando os alunos em uma tabela com a possibilidade de ordenação por nomes e nota. A Figura abaixo mostra a tela inicial da aplicação.
 
