@@ -175,6 +175,38 @@ A Programação do formulário mainwindow ocorre em sua classe. Como Header dest
 
 ![](figuras/19.png)
 
+Podemos ver melhor a programação dessa classe em Source:
+
+![](figuras/20.png)
+
+Já o Header da Classe Produto podemos observar abaixo.
+
+![](figuras/21.png)
+
+Essa classe é responsável por setar o Item e a quantidade do produto, conforme observamos no source da classe:
+
+![](figuras/22.png)
+
+Em seguida, vemos o Header da Classe Loja.
+
+![](figuras/23.png)
+
+E seu respectivo Source:
+
+![](figuras/24.png)
+
+Essa classe é responsável por montar o estoque da loja, bem como fazer a ordenação, edição e exclusão dos produtos.
+
+A próxima classe mostrada no Header abaixo é a classe do gerenciador de arquivos.
+
+![](figuras/25.png)
+
+Cujo Source vemos abaixo.
+
+![](figuras/26.png)
+
+
+
 
 
 
