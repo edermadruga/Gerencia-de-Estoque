@@ -1,5 +1,5 @@
 # Gerenciador de alunos 2018.2 
-### Código exemplo da aplicação desenvolvida em [QT](http://www.qt.io) para gerenciar as notas de uma turma
+### Código exemplo da aplicação desenvolvida em [QT](http://www.qt.io) para gerenciar as notas de uma turma dddd
 
 A aplicação deve permitir que o usuário insira vários alunos mostrando os alunos em uma tabela com a possibilidade de ordenação por nomes e nota. A Figura abaixo mostra a tela inicial da aplicação.
 
