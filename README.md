@@ -10,6 +10,8 @@ A aplicação deve permitir ao usuário a inserção de vários produtos da loja
 
 ![](figuras/tela_de_estatistica.png)
 
+![](figuras/tela_de_estatistica.png)
+
 # Os componentes básicos do QT (basic widgets)
 
 ## Labels
