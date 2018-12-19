@@ -163,6 +163,18 @@ Suponha que seja necessário excluir o item Arduino Mega:
 
 A qualquer momento, podemos verificar as estatísticas do estoque, bastanto clicar em ESTATÍSTICAS:
 
+____________________________________________________________________________________________________________
+
+# A Programação por trás do formulário
+
+Toda Programação deste formulário foi concebida em Classes, conforme podemos ver na árvore do projeto no QT.
+
+![](figuras/18.PNG)
+
+A Programação do formulário mainwindow ocorre em sua classe. Como Header desta classe, temos:
+
+![](figuras/19.png)
+
 
 
 
