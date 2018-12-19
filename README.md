@@ -6,7 +6,7 @@ A aplicação deve permitir ao usuário a inserção de vários produtos da loja
 
 ![](figuras/1.png)
 
-O gerenciador de alunos também conta com uma aba para mostrar as estatísticas do turma.
+É possível visualizar uma tela de estatísticas onde teremos um resumo que informa ao usuário a quantidade total de itens do estoque, bem como a menor quantidade e também a maior. Na figura abaixo, é possível ver esta tela.
 
 ![](figuras/tela_estatistica.png)
 
