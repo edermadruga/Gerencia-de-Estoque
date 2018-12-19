@@ -205,6 +205,12 @@ Cujo Source vemos abaixo.
 
 ![](figuras/26.png)
 
+Como o próprio nome diz, essa classe lida com a criação e leitura de arquivos .txt.
+
+Por fim é mostrada abaixo a função main.
+
+![](figuras/27.png)
+
 
 
 
