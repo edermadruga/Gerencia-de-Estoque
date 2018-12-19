@@ -113,11 +113,9 @@ Suponha que seja necessário modificar a quantidade do arduino Uno para 20 peça
 
 - Clicamos no botão EDITAR.
 
-![](figuras/11.PNG)
-
 - A Linha será apagada e o item voltará aos campos de inserção.
 
-![](figuras/12.PNG)
+![](figuras/11.PNG)
 
 - Modificamos a quantidade para 20 e clicamos em INSERIR
 
