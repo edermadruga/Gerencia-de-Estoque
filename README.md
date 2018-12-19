@@ -121,8 +121,19 @@ Suponha que seja necessário modificar a quantidade do arduino Uno para 20 peça
 
 ![](figuras/12.PNG)
 
+# Excluindo um Produto
 
+Caso seja necessário, o usuário poderá excluir um produto, basta selecionar uma linha da tabela (Observe que a linha selecionada ficará azul)e apertar no botão EXCLUIR. O item será apagado.
 
+Suponha que seja necessário excluir o item Arduino Mega:
+
+- Selecionamos a linha.
+
+![](figuras/10.PNG)
+
+- Clicamos no botão EXCLUIR. Uma janela de mensagem será aberta informando da excusão do item.
+
+![](figuras/12.PNG)
 
 
 # Os componentes básicos do QT (basic widgets)
