@@ -4,7 +4,7 @@
 
 A aplicação deve permitir ao usuário a inserção de vários produtos da loja de eletrônica, mostrando-os em uma tabela (TableWidget), onde será possível a ordenação pelo Item (Produto) ou pela Quantidade. É possível que o usuário salve a Lista de Produtos em um arquivo de texto (.txt) o que o mesmo carregue essa lista de um arquivo. Além disso é permitido ao usuário e exclusão de um item bem como sua edição. A Figura abaixo mostra a tela inicial da aplicação.
 
-![](figuras/tela_inicial.png)
+![](figuras/1.png)
 
 O gerenciador de alunos também conta com uma aba para mostrar as estatísticas do turma.
 
