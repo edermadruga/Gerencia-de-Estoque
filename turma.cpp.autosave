@@ -1,0 +1,54 @@
+#include "loja.h"
+
+Turma::Turma(QObject *parent) : QObject(parent)
+{
+
+}
+
+void Turma::inserirAluno(const Produto a)
+{
+    turma.push_back(a);
+}
+
+float Turma::mediaDaTurma()
+{
+    return std::accumulate(turma.begin(),turma.end(),0.0, [](float acc, Produto a){return acc+=a.getMedia();})/turma.size();
+}
+
+float Turma::maiorNota()
+{
+    Produto *maior = std::max_element(turma.begin(),turma.end(),[](Produto a, Produto b){ return a.getMedia() < b.getMedia();});
+    return maior->getMedia();
+}
+
+float Turma::menorNota()
+{
+    Produto *menor = std::min_element(turma.begin(),turma.end(),[](Produto a, Produto b){return a.getMedia() < b.getMedia();});
+    return menor->getMedia();
+}
+
+void Turma::ordenarPorNome()
+{
+    std::sort(turma.begin(), turma.end(), [](Produto a, Produto b){return a.getNome()<b.getNome();});
+}
+
+void Turma::ordenarPorMedia()
+{
+    ordenarPorNome();
+    std::stable_sort(turma.begin(),turma.end(),[](Produto a, Produto b){return a.getMedia()<b.getMedia();});
+}
+
+int Turma::size()
+{
+    return turma.size();
+}
+
+void Turma::clear()
+{
+    turma.clear();
+}
+
+Produto Turma::operator[](int i)
+{
+    return turma[i];
+}
