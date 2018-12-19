@@ -8,7 +8,7 @@ A aplicação deve permitir ao usuário a inserção de vários produtos da loja
 
 É possível visualizar uma tela de estatísticas onde teremos um resumo que informa ao usuário a quantidade total de itens do estoque, bem como a menor quantidade e também a maior. Na figura abaixo, é possível ver esta tela.
 
-![](figuras/tela_estatistica.png)
+![](figuras/tela de estatística.png)
 
 # Os componentes básicos do QT (basic widgets)
 
