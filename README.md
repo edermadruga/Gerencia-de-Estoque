@@ -50,6 +50,20 @@ Este Item mostrará todos os produtos inseridos.
 
 ## Botão Ordenar por Produto
 
+Ao Clicar neste botão, a Lista de produtos será ordenada em ordem alfabética.
+
+## Botão Ordenar por Quantidade
+
+Ao Clicar neste botão, a Lista de produtos será ordenada considerando a quantidade de itens de cada produto. Caso dois itens tenha a mesma quantidade, será considerada a ordenação alfabética.
+
+## Botão Excluir
+
+Antes de utilizar este botão, é necessário que o usuário selecione uma linha da tabela. Com isso, ao clicar no botão a linha selecionada será apagada.
+
+## Botão Editar
+
+Antes de utilizar este botão, é necessário que o usuário selecione uma linha da tabela. Com isso, ao clicar no botão a linha selecionada será apagada, mas o item com sua respectiva quantidade retornará ao campo de edição para que possa ser modificado e inserido novamebte na tabela.
+
 
 
 # Os componentes básicos do QT (basic widgets)
