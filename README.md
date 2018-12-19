@@ -12,7 +12,7 @@ A aplicação deve permitir ao usuário a inserção de vários produtos da loja
 
 A utilização do formulário é bastante intuitiva. Observe na figura abaixo os diversos itens do formulário e a ação de sua interação com o usuário.
 
-![](figursd/tela principal com itens inseridos.PNG)
+![](figuras/tela principal com itens inseridos.PNG)
 
 # Os componentes básicos do QT (basic widgets)
 
