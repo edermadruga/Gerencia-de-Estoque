@@ -177,7 +177,7 @@ A Programação do formulário mainwindow ocorre em sua classe. Como Header dest
 
 Podemos ver melhor a programação dessa classe em Source:
 
-![](figuras/20.png)
+![](figuras/20N.png)
 
 Já o Header da Classe Produto podemos observar abaixo.
 
